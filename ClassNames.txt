@@ -1,0 +1,5 @@
+Names	Activity	Fragment	Adapter	
+First	yes	yes	yes	
+Second	no	yes	yes	
+Third	yes	no	no	
+Fourth	no	yes	no	
